@@ -4,13 +4,20 @@
     <head>
         <meta charset="utf-8" />
         <title>Map</title>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong">
+        <link rel="stylesheet" href="./style.css">
         <script src="http://maps.google.com/maps/api/js?key=AIzaSyARxs_0QWBQzZ-7tnFIkcz6Tzh5Fr1I0xg"></script>
     </head>
 
-<body>
-
-        <div id="map" style="width:1024px; height:768px;"></div>
-
-        <script src="./transports.js"></script>
+<body id="main">
+    
+    <div class="wrapper">
+        <div class="box header"><h2>Public Transport Real-Time Tracker</h2></div>
+        <div class="box content">
+            <div id="map" class="mapStyle"></div>
+        </div>
+    </div>
+        
+        <script src="./mapanimation.js"></script>
     </body>
 </html>

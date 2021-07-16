@@ -1,0 +1,34 @@
+body {
+    font-family: "Trirong", serif;
+}
+.content {
+    grid-area: content;
+}
+.header {
+    grid-area: header;
+}
+.wrapper {
+    display: grid;
+    grid-gap: 10px;
+    background-color: #fff;
+    color: #444;
+    grid-template-columns: 500px 1024px;
+    grid-template-areas:
+    '... header '
+    '... content ';
+    background-color: #fff;
+    color: #444;
+}
+.box {
+    color: #000;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 150%;
+}
+.header {
+    text-align: center;
+}
+.mapStyle{
+    width:1024px; 
+    height:768px;       
+}
