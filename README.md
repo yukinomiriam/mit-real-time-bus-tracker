@@ -23,7 +23,7 @@ In order to run this project, please download all the files and place them all i
 
 ROADMAP OF FUTURE IMPROVEMENTS
 -----------
-In the future, I am planning on adding a better look and feal so the page doesn't look so flat.
+In the future, I am planning on adding a better look and feel so the page doesn't look so flat.
 
 MAINTAINERS
 ------------
