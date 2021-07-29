@@ -32,3 +32,7 @@ This project is maintained by Miriam Bade.
 For any questions, you can reach out to me by email: yukinomiriam@gmail.com.
 
 ![alt text](https://github.com/yukinomiriam/real-time-bus-tracker/blob/main/Real-Time_tracker.PNG)
+
+LICENSE
+------------
+[MIT License](https://github.com/yukinomiriam/real-time-bus-tracker/blob/main/LICENSE)
